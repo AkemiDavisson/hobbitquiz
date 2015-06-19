@@ -35,7 +35,7 @@ $(document).ready(function () {
 questionsObject = {
 
     q1: {
-        question: "Who is the second dwarf to come to Bilbo’s door at the beginning of The Hobbit?",
+        question: "Who is the second dwarf to come to Bilbo's door at the beginning of The Hobbit?",
         mcanswers: ["Fili", "Balin", "Dwalin", "Kili"],
         correctanswer: "Balin",
         videoCode: "WgPibJ-lhWo"
