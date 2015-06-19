@@ -1,0 +1,12 @@
+{
+  "name": "hobbitquiz",
+  "version": "0.0.0",
+  "authors": [
+    "Akemi Davisson <akemi.davisson@enterpriseinnovations.net>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4"
+  }
+}
